@@ -3,7 +3,7 @@
 
 ## Authors
 
-- [@Svitlana Kramar)](www.linkedin.com/in/svitlana-kramar)
+- @Svitlana Kramar
 <br>
 
 
